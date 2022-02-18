@@ -1,7 +1,7 @@
 # SS-rendering-Rest-API
 Base Rest API for server side rendering that performs the CRUD operations.
 
-#Setup && Usage: 
+## Setup && Usage: 
 
 1- git clone https://github.com/Monsef-Noubadji/SS-rendering-Rest-API.git
 
