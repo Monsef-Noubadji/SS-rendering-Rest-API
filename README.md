@@ -11,7 +11,7 @@ Base Rest API for server side rendering that performs the CRUD operations.
 
 4. Create a new Database and specify the tables && Columns.
 
-5. Modify `db.js` and Add your database Credentianls.
+5. Modify `db.js` and Add your database Credentials.
 
 6. Launch the `App.js` using : node App , now an instance should start (`listening on port 3000`).
 
@@ -19,3 +19,4 @@ Base Rest API for server side rendering that performs the CRUD operations.
 
 
 Happy Coding :)
+
