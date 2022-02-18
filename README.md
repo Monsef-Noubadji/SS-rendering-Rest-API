@@ -5,7 +5,7 @@ Base Rest API for server side rendering that performs the CRUD operations Using 
 
 - You need To have `Nodejs` , `ExpressJS` and `MySQL` installed :
 
-1. Download [`Nodejs`](https://nodejs.org/en/)
+1. Download [`NodeJS`](https://nodejs.org/en/)
 
 2. Download [MySQL](https://www.mysql.com/downloads/)
 
@@ -28,4 +28,4 @@ Base Rest API for server side rendering that performs the CRUD operations Using 
 7. Test your Endpoint to make sure it's functional && That's pretty much it.
 
 
-Happy Coding :)
+`Happy Coding :)`
