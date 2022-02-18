@@ -1,5 +1,15 @@
 # SS-rendering-Rest-API
-Base Rest API for server side rendering that performs the CRUD operations.
+Base Rest API for server side rendering that performs the CRUD operations Using `Nodejs` , `ExpressJS` and `MySQL`.
+
+## Prequesties : 
+
+- You need To have `Nodejs` , `ExpressJS` and `MySQL` installed :
+
+1. Download [`Nodejs`](https://nodejs.org/en/)
+
+2. Download [MySQL](https://www.mysql.com/downloads/)
+
+3. For Express , you can download it using Npm or Yarn : `npm install express` or `yarn add express`
 
 ## Setup && Usage: 
 
@@ -19,4 +29,3 @@ Base Rest API for server side rendering that performs the CRUD operations.
 
 
 Happy Coding :)
-
